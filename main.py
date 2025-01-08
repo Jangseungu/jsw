@@ -11,4 +11,7 @@ if st.button("난수 생성"):
 else:
     st.write("Goodbye")
 
+if st.button("Aloha", type="tertiary"):
+    st.write("Ciao")
+
 
